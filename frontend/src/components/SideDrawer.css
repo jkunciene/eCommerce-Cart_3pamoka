@@ -57,7 +57,7 @@
     font-size: 1rem;
     margin-left: 8px;
 }
-.sidedrawer_links>li>a:hover .sidedrawer_cartbadge{
+.sidedrawer_links > li > a:hover .sidedrawer_cartbadge{
     background: #fff;
     color: black;
 }
